@@ -17,6 +17,7 @@ __version__ = "1.00"
 #secret = MonitorPass
 #writetimeout = 500
 #read = command
+#write = command
 #
 # But PLEASE change the user/password
 #
